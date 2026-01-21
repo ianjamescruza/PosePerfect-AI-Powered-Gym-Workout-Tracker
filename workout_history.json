@@ -1,0 +1,1032 @@
+[
+  {
+    "date": "2025-11-03T17:12:27.966512",
+    "sets": [
+      {
+        "exercise": "t bar row",
+        "reps": 8,
+        "duration": 342,
+        "timestamp": "2025-11-03T17:04:35.742253"
+      },
+      {
+        "exercise": "tricep dips",
+        "reps": 2,
+        "duration": 9,
+        "timestamp": "2025-11-03T17:10:43.173957"
+      },
+      {
+        "exercise": "push up",
+        "reps": 1,
+        "duration": 5,
+        "timestamp": "2025-11-03T17:10:53.034314"
+      },
+      {
+        "exercise": "push up",
+        "reps": 1,
+        "duration": 12,
+        "timestamp": "2025-11-03T17:11:37.132399"
+      },
+      {
+        "exercise": "tricep dips",
+        "reps": 1,
+        "duration": 8,
+        "timestamp": "2025-11-03T17:11:49.299178"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-03T17:16:16.839888",
+    "sets": [
+      {
+        "exercise": "tricep pushdown",
+        "reps": 1,
+        "duration": 5,
+        "timestamp": "2025-11-03T17:16:01.678303"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-03T17:29:21.071432",
+    "sets": [
+      {
+        "exercise": "t bar row",
+        "reps": 2,
+        "duration": 92,
+        "timestamp": "2025-11-03T17:24:23.254954"
+      },
+      {
+        "exercise": "push up",
+        "reps": 2,
+        "duration": 15,
+        "timestamp": "2025-11-03T17:25:56.176529"
+      },
+      {
+        "exercise": "t bar row",
+        "reps": 3,
+        "duration": 48,
+        "timestamp": "2025-11-03T17:26:11.726971"
+      },
+      {
+        "exercise": "lateral raises",
+        "reps": 2,
+        "duration": 7,
+        "timestamp": "2025-11-03T17:27:46.412837"
+      },
+      {
+        "exercise": "lateral raises",
+        "reps": 1,
+        "duration": 5,
+        "timestamp": "2025-11-03T17:27:59.487439"
+      },
+      {
+        "exercise": "tricep pushdown",
+        "reps": 2,
+        "duration": 17,
+        "timestamp": "2025-11-03T17:28:04.973182"
+      },
+      {
+        "exercise": "lateral raises",
+        "reps": 2,
+        "duration": 18,
+        "timestamp": "2025-11-03T17:28:22.270381"
+      },
+      {
+        "exercise": "lateral raises",
+        "reps": 1,
+        "duration": 23,
+        "timestamp": "2025-11-03T17:28:57.863403"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-03T17:31:59.740449",
+    "sets": [
+      {
+        "exercise": "push up",
+        "reps": 6,
+        "duration": 128,
+        "timestamp": "2025-11-03T17:29:50.933380"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-03T17:42:45.829018",
+    "sets": [
+      {
+        "exercise": "lateral raises",
+        "reps": 1,
+        "duration": 8,
+        "timestamp": "2025-11-03T17:39:59.952894"
+      },
+      {
+        "exercise": "tricep dips",
+        "reps": 1,
+        "duration": 22,
+        "timestamp": "2025-11-03T17:40:08.451929"
+      },
+      {
+        "exercise": "t bar row",
+        "reps": 3,
+        "duration": 92,
+        "timestamp": "2025-11-03T17:40:31.439044"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-03T17:45:29.950482",
+    "sets": [
+      {
+        "exercise": "push up",
+        "reps": 1,
+        "duration": 8,
+        "timestamp": "2025-11-03T17:44:17.238431"
+      },
+      {
+        "exercise": "hip thrust",
+        "reps": 1,
+        "duration": 3,
+        "timestamp": "2025-11-03T17:44:25.623465"
+      },
+      {
+        "exercise": "push up",
+        "reps": 1,
+        "duration": 20,
+        "timestamp": "2025-11-03T17:44:52.615258"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-03T17:48:55.096182",
+    "sets": [
+      {
+        "exercise": "t bar row",
+        "reps": 13,
+        "duration": 157,
+        "timestamp": "2025-11-03T17:46:17.210592"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-03T17:50:54.058379",
+    "sets": [
+      {
+        "exercise": "tricep dips",
+        "reps": 2,
+        "duration": 65,
+        "timestamp": "2025-11-03T17:49:48.583196"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-03T17:54:30.372127",
+    "sets": [
+      {
+        "exercise": "tricep pushdown",
+        "reps": 3,
+        "duration": 28,
+        "timestamp": "2025-11-03T17:54:01.771088"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-03T17:55:54.967054",
+    "sets": [
+      {
+        "exercise": "tricep dips",
+        "reps": 1,
+        "duration": 16,
+        "timestamp": "2025-11-03T17:55:15.951478"
+      },
+      {
+        "exercise": "t bar row",
+        "reps": 1,
+        "duration": 22,
+        "timestamp": "2025-11-03T17:55:32.144636"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-03T18:00:00.930985",
+    "sets": [
+      {
+        "exercise": "tricep dips",
+        "reps": 1,
+        "duration": 12,
+        "timestamp": "2025-11-03T17:58:27.963214"
+      },
+      {
+        "exercise": "lateral raises",
+        "reps": 1,
+        "duration": 6,
+        "timestamp": "2025-11-03T17:58:40.735683"
+      },
+      {
+        "exercise": "t bar row",
+        "reps": 1,
+        "duration": 25,
+        "timestamp": "2025-11-03T17:59:33.323854"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-03T18:01:23.204665",
+    "sets": [
+      {
+        "exercise": "tricep dips",
+        "reps": 3,
+        "duration": 8,
+        "timestamp": "2025-11-03T18:00:55.456212"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-03T18:30:41.765415",
+    "sets": [
+      {
+        "exercise": "push up",
+        "reps": 12,
+        "duration": 137,
+        "timestamp": "2025-11-03T18:28:18.509774"
+      },
+      {
+        "exercise": "t bar row",
+        "reps": 1,
+        "duration": 5,
+        "timestamp": "2025-11-03T18:30:35.809722"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-03T18:36:08.455322",
+    "sets": [
+      {
+        "exercise": "t bar row",
+        "reps": 3,
+        "duration": 30,
+        "timestamp": "2025-11-03T18:31:23.322448"
+      },
+      {
+        "exercise": "push up",
+        "reps": 10,
+        "duration": 35,
+        "timestamp": "2025-11-03T18:31:53.927756"
+      },
+      {
+        "exercise": "hip thrust",
+        "reps": 3,
+        "duration": 9,
+        "timestamp": "2025-11-03T18:32:29.512422"
+      },
+      {
+        "exercise": "t bar row",
+        "reps": 2,
+        "duration": 4,
+        "timestamp": "2025-11-03T18:32:39.103162"
+      },
+      {
+        "exercise": "push up",
+        "reps": 3,
+        "duration": 35,
+        "timestamp": "2025-11-03T18:32:43.511209"
+      },
+      {
+        "exercise": "t bar row",
+        "reps": 7,
+        "duration": 63,
+        "timestamp": "2025-11-03T18:33:19.434208"
+      },
+      {
+        "exercise": "push up",
+        "reps": 15,
+        "duration": 63,
+        "timestamp": "2025-11-03T18:34:22.921575"
+      },
+      {
+        "exercise": "t bar row",
+        "reps": 3,
+        "duration": 7,
+        "timestamp": "2025-11-03T18:35:26.857905"
+      },
+      {
+        "exercise": "push up",
+        "reps": 1,
+        "duration": 3,
+        "timestamp": "2025-11-03T18:35:34.536736"
+      },
+      {
+        "exercise": "t bar row",
+        "reps": 6,
+        "duration": 30,
+        "timestamp": "2025-11-03T18:35:37.736907"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-03T18:37:10.010560",
+    "sets": [
+      {
+        "exercise": "t bar row",
+        "reps": 1,
+        "duration": 11,
+        "timestamp": "2025-11-03T18:36:58.151219"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-03T18:42:34.993375",
+    "sets": [
+      {
+        "exercise": "t bar row",
+        "reps": 15,
+        "duration": 63,
+        "timestamp": "2025-11-03T18:37:41.194220"
+      },
+      {
+        "exercise": "t bar row",
+        "reps": 1,
+        "duration": 8,
+        "timestamp": "2025-11-03T18:38:49.404871"
+      },
+      {
+        "exercise": "tricep dips",
+        "reps": 7,
+        "duration": 20,
+        "timestamp": "2025-11-03T18:38:58.093464"
+      },
+      {
+        "exercise": "t bar row",
+        "reps": 5,
+        "duration": 14,
+        "timestamp": "2025-11-03T18:39:19.054633"
+      },
+      {
+        "exercise": "tricep pushdown",
+        "reps": 4,
+        "duration": 9,
+        "timestamp": "2025-11-03T18:39:33.229399"
+      },
+      {
+        "exercise": "leg raises",
+        "reps": 5,
+        "duration": 11,
+        "timestamp": "2025-11-03T18:39:43.121237"
+      },
+      {
+        "exercise": "push up",
+        "reps": 3,
+        "duration": 21,
+        "timestamp": "2025-11-03T18:39:55.101454"
+      },
+      {
+        "exercise": "bench press",
+        "reps": 8,
+        "duration": 22,
+        "timestamp": "2025-11-03T18:40:17.001608"
+      },
+      {
+        "exercise": "push up",
+        "reps": 6,
+        "duration": 51,
+        "timestamp": "2025-11-03T18:40:39.606160"
+      },
+      {
+        "exercise": "t bar row",
+        "reps": 4,
+        "duration": 57,
+        "timestamp": "2025-11-03T18:41:30.727419"
+      },
+      {
+        "exercise": "push up",
+        "reps": 1,
+        "duration": 7,
+        "timestamp": "2025-11-03T18:42:27.772853"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-03T18:50:16.127720",
+    "sets": [
+      {
+        "exercise": "leg raises",
+        "reps": 3,
+        "duration": 23,
+        "timestamp": "2025-11-03T18:44:41.969235"
+      },
+      {
+        "exercise": "t bar row",
+        "reps": 10,
+        "duration": 34,
+        "timestamp": "2025-11-03T18:45:05.892650"
+      },
+      {
+        "exercise": "push up",
+        "reps": 1,
+        "duration": 22,
+        "timestamp": "2025-11-03T18:45:40.580818"
+      },
+      {
+        "exercise": "t bar row",
+        "reps": 21,
+        "duration": 106,
+        "timestamp": "2025-11-03T18:46:03.355403"
+      },
+      {
+        "exercise": "romanian deadlift",
+        "reps": 1,
+        "duration": 3,
+        "timestamp": "2025-11-03T18:47:49.959176"
+      },
+      {
+        "exercise": "t bar row",
+        "reps": 15,
+        "duration": 142,
+        "timestamp": "2025-11-03T18:47:53.252247"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-03T18:52:27.549457",
+    "sets": [
+      {
+        "exercise": "tricep dips",
+        "reps": 1,
+        "duration": 9,
+        "timestamp": "2025-11-03T18:50:46.415322"
+      },
+      {
+        "exercise": "tricep pushdown",
+        "reps": 2,
+        "duration": 55,
+        "timestamp": "2025-11-03T18:50:56.187026"
+      },
+      {
+        "exercise": "t bar row",
+        "reps": 1,
+        "duration": 35,
+        "timestamp": "2025-11-03T18:51:51.590656"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-04T14:45:01.696236",
+    "sets": [
+      {
+        "exercise": "t bar row",
+        "reps": 1,
+        "duration": 20,
+        "timestamp": "2025-11-04T14:40:29.273714"
+      },
+      {
+        "exercise": "push up",
+        "reps": 1,
+        "duration": 3,
+        "timestamp": "2025-11-04T14:40:49.565267"
+      },
+      {
+        "exercise": "tricep pushdown",
+        "reps": 1,
+        "duration": 25,
+        "timestamp": "2025-11-04T14:40:52.762832"
+      },
+      {
+        "exercise": "t bar row",
+        "reps": 1,
+        "duration": 3,
+        "timestamp": "2025-11-04T14:41:34.536365"
+      },
+      {
+        "exercise": "barbell biceps curl",
+        "reps": 5,
+        "duration": 193,
+        "timestamp": "2025-11-04T14:41:48.632008"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-04T14:49:31.847296",
+    "sets": [
+      {
+        "exercise": "t bar row",
+        "reps": 1,
+        "duration": 5,
+        "timestamp": "2025-11-04T14:46:31.073168"
+      },
+      {
+        "exercise": "tricep pushdown",
+        "reps": 2,
+        "duration": 12,
+        "timestamp": "2025-11-04T14:46:36.369237"
+      },
+      {
+        "exercise": "t bar row",
+        "reps": 2,
+        "duration": 5,
+        "timestamp": "2025-11-04T14:47:01.980428"
+      },
+      {
+        "exercise": "tricep pushdown",
+        "reps": 1,
+        "duration": 13,
+        "timestamp": "2025-11-04T14:47:07.279832"
+      },
+      {
+        "exercise": "t bar row",
+        "reps": 5,
+        "duration": 19,
+        "timestamp": "2025-11-04T14:47:20.283726"
+      },
+      {
+        "exercise": "barbell biceps curl",
+        "reps": 11,
+        "duration": 34,
+        "timestamp": "2025-11-04T14:47:39.570579"
+      },
+      {
+        "exercise": "lateral raises",
+        "reps": 3,
+        "duration": 14,
+        "timestamp": "2025-11-04T14:48:21.168925"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-04T14:54:15.651723",
+    "sets": [
+      {
+        "exercise": "t bar row",
+        "reps": 5,
+        "duration": 21,
+        "timestamp": "2025-11-04T14:52:46.161723"
+      },
+      {
+        "exercise": "lateral raises",
+        "reps": 2,
+        "duration": 9,
+        "timestamp": "2025-11-04T14:53:23.664909"
+      },
+      {
+        "exercise": "tricep pushdown",
+        "reps": 1,
+        "duration": 12,
+        "timestamp": "2025-11-04T14:53:32.944867"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-04T15:03:51.737678",
+    "sets": [
+      {
+        "exercise": "tricep pushdown",
+        "reps": 1,
+        "duration": 3,
+        "timestamp": "2025-11-04T14:58:56.422801"
+      },
+      {
+        "exercise": "hammer curl",
+        "reps": 3,
+        "duration": 9,
+        "timestamp": "2025-11-04T14:58:59.622992"
+      },
+      {
+        "exercise": "push up",
+        "reps": 2,
+        "duration": 17,
+        "timestamp": "2025-11-04T14:59:09.336616"
+      },
+      {
+        "exercise": "barbell biceps curl",
+        "reps": 4,
+        "duration": 30,
+        "timestamp": "2025-11-04T14:59:26.418144"
+      },
+      {
+        "exercise": "hammer curl",
+        "reps": 8,
+        "duration": 24,
+        "timestamp": "2025-11-04T14:59:57.329972"
+      },
+      {
+        "exercise": "incline bench press",
+        "reps": 3,
+        "duration": 8,
+        "timestamp": "2025-11-04T15:00:21.411039"
+      },
+      {
+        "exercise": "lateral raises",
+        "reps": 4,
+        "duration": 16,
+        "timestamp": "2025-11-04T15:00:29.411775"
+      },
+      {
+        "exercise": "push up",
+        "reps": 7,
+        "duration": 19,
+        "timestamp": "2025-11-04T15:00:45.614444"
+      },
+      {
+        "exercise": "hammer curl",
+        "reps": 17,
+        "duration": 40,
+        "timestamp": "2025-11-04T15:01:05.427787"
+      },
+      {
+        "exercise": "push up",
+        "reps": 1,
+        "duration": 5,
+        "timestamp": "2025-11-04T15:01:46.023007"
+      },
+      {
+        "exercise": "t bar row",
+        "reps": 2,
+        "duration": 7,
+        "timestamp": "2025-11-04T15:01:51.329217"
+      },
+      {
+        "exercise": "t bar row",
+        "reps": 1,
+        "duration": 10,
+        "timestamp": "2025-11-04T15:02:02.020212"
+      },
+      {
+        "exercise": "push up",
+        "reps": 9,
+        "duration": 46,
+        "timestamp": "2025-11-04T15:02:12.630351"
+      },
+      {
+        "exercise": "t bar row",
+        "reps": 4,
+        "duration": 7,
+        "timestamp": "2025-11-04T15:02:58.819069"
+      },
+      {
+        "exercise": "push up",
+        "reps": 9,
+        "duration": 28,
+        "timestamp": "2025-11-04T15:03:06.326566"
+      },
+      {
+        "exercise": "pull up",
+        "reps": 1,
+        "duration": 6,
+        "timestamp": "2025-11-04T15:03:35.219959"
+      },
+      {
+        "exercise": "push up",
+        "reps": 3,
+        "duration": 10,
+        "timestamp": "2025-11-04T15:03:41.619331"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-04T15:15:11.227953",
+    "sets": [
+      {
+        "exercise": "lateral raises",
+        "reps": 1,
+        "duration": 8,
+        "timestamp": "2025-11-04T15:11:39.733105"
+      },
+      {
+        "exercise": "push up",
+        "reps": 2,
+        "duration": 8,
+        "timestamp": "2025-11-04T15:11:48.397167"
+      },
+      {
+        "exercise": "hammer curl",
+        "reps": 2,
+        "duration": 6,
+        "timestamp": "2025-11-04T15:11:56.937802"
+      },
+      {
+        "exercise": "t bar row",
+        "reps": 5,
+        "duration": 15,
+        "timestamp": "2025-11-04T15:12:03.348007"
+      },
+      {
+        "exercise": "hammer curl",
+        "reps": 1,
+        "duration": 7,
+        "timestamp": "2025-11-04T15:12:18.654229"
+      },
+      {
+        "exercise": "push up",
+        "reps": 4,
+        "duration": 30,
+        "timestamp": "2025-11-04T15:12:26.252231"
+      },
+      {
+        "exercise": "t bar row",
+        "reps": 6,
+        "duration": 17,
+        "timestamp": "2025-11-04T15:12:56.350394"
+      },
+      {
+        "exercise": "t bar row",
+        "reps": 2,
+        "duration": 20,
+        "timestamp": "2025-11-04T15:13:17.741421"
+      },
+      {
+        "exercise": "t bar row",
+        "reps": 2,
+        "duration": 19,
+        "timestamp": "2025-11-04T15:13:41.744163"
+      },
+      {
+        "exercise": "push up",
+        "reps": 5,
+        "duration": 69,
+        "timestamp": "2025-11-04T15:14:01.343062"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-04T15:38:21.438474",
+    "sets": [
+      {
+        "exercise": "t bar row",
+        "reps": 5,
+        "duration": 25,
+        "timestamp": "2025-11-04T15:36:01.896382"
+      },
+      {
+        "exercise": "hammer curl",
+        "reps": 7,
+        "duration": 24,
+        "timestamp": "2025-11-04T15:36:27.686102"
+      },
+      {
+        "exercise": "bench press",
+        "reps": 1,
+        "duration": 5,
+        "timestamp": "2025-11-04T15:36:52.489645"
+      },
+      {
+        "exercise": "tricep dips",
+        "reps": 1,
+        "duration": 6,
+        "timestamp": "2025-11-04T15:36:57.995443"
+      },
+      {
+        "exercise": "t bar row",
+        "reps": 2,
+        "duration": 29,
+        "timestamp": "2025-11-04T15:37:04.492088"
+      },
+      {
+        "exercise": "hammer curl",
+        "reps": 1,
+        "duration": 5,
+        "timestamp": "2025-11-04T15:37:33.692647"
+      },
+      {
+        "exercise": "tricep pushdown",
+        "reps": 2,
+        "duration": 3,
+        "timestamp": "2025-11-04T15:37:38.875529"
+      },
+      {
+        "exercise": "push up",
+        "reps": 4,
+        "duration": 23,
+        "timestamp": "2025-11-04T15:37:42.873118"
+      },
+      {
+        "exercise": "t bar row",
+        "reps": 4,
+        "duration": 14,
+        "timestamp": "2025-11-04T15:38:06.678180"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-05T09:59:00.480467",
+    "sets": [
+      {
+        "exercise": "lateral raises",
+        "reps": 1,
+        "duration": 67,
+        "timestamp": "2025-11-05T09:17:12.006258"
+      },
+      {
+        "exercise": "hip thrust",
+        "reps": 3,
+        "duration": 8,
+        "timestamp": "2025-11-05T09:19:06.476777"
+      },
+      {
+        "exercise": "lateral raises",
+        "reps": 1,
+        "duration": 31,
+        "timestamp": "2025-11-05T09:20:08.425932"
+      },
+      {
+        "exercise": "hip thrust",
+        "reps": 2,
+        "duration": 4,
+        "timestamp": "2025-11-05T09:20:40.301911"
+      },
+      {
+        "exercise": "deadlift",
+        "reps": 1,
+        "duration": 28,
+        "timestamp": "2025-11-05T09:20:44.722265"
+      },
+      {
+        "exercise": "push up",
+        "reps": 1,
+        "duration": 20,
+        "timestamp": "2025-11-05T09:21:13.326037"
+      },
+      {
+        "exercise": "deadlift",
+        "reps": 1,
+        "duration": 5,
+        "timestamp": "2025-11-05T09:21:34.203223"
+      },
+      {
+        "exercise": "tricep pushdown",
+        "reps": 2,
+        "duration": 46,
+        "timestamp": "2025-11-05T09:21:39.752310"
+      },
+      {
+        "exercise": "push up",
+        "reps": 1,
+        "duration": 10,
+        "timestamp": "2025-11-05T09:22:37.627024"
+      },
+      {
+        "exercise": "deadlift",
+        "reps": 1,
+        "duration": 23,
+        "timestamp": "2025-11-05T09:22:48.611591"
+      },
+      {
+        "exercise": "tricep pushdown",
+        "reps": 2,
+        "duration": 19,
+        "timestamp": "2025-11-05T09:23:11.743073"
+      },
+      {
+        "exercise": "lateral raises",
+        "reps": 1,
+        "duration": 3,
+        "timestamp": "2025-11-05T09:23:48.007375"
+      },
+      {
+        "exercise": "tricep pushdown",
+        "reps": 1,
+        "duration": 8,
+        "timestamp": "2025-11-05T09:23:51.309243"
+      },
+      {
+        "exercise": "tricep pushdown",
+        "reps": 3,
+        "duration": 20,
+        "timestamp": "2025-11-05T09:24:04.407125"
+      },
+      {
+        "exercise": "hammer curl",
+        "reps": 2,
+        "duration": 20,
+        "timestamp": "2025-11-05T09:24:31.518457"
+      },
+      {
+        "exercise": "hip thrust",
+        "reps": 1,
+        "duration": 8,
+        "timestamp": "2025-11-05T09:24:52.294075"
+      },
+      {
+        "exercise": "lateral raises",
+        "reps": 7,
+        "duration": 27,
+        "timestamp": "2025-11-05T09:25:00.818008"
+      },
+      {
+        "exercise": "push up",
+        "reps": 6,
+        "duration": 16,
+        "timestamp": "2025-11-05T09:25:28.180134"
+      },
+      {
+        "exercise": "lateral raises",
+        "reps": 7,
+        "duration": 46,
+        "timestamp": "2025-11-05T09:25:54.112315"
+      },
+      {
+        "exercise": "tricep pushdown",
+        "reps": 5,
+        "duration": 30,
+        "timestamp": "2025-11-05T09:26:41.091919"
+      },
+      {
+        "exercise": "lateral raises",
+        "reps": 5,
+        "duration": 45,
+        "timestamp": "2025-11-05T09:27:11.600343"
+      },
+      {
+        "exercise": "tricep pushdown",
+        "reps": 6,
+        "duration": 16,
+        "timestamp": "2025-11-05T09:27:56.952888"
+      },
+      {
+        "exercise": "lateral raises",
+        "reps": 3,
+        "duration": 48,
+        "timestamp": "2025-11-05T09:28:13.325021"
+      },
+      {
+        "exercise": "lateral raises",
+        "reps": 1,
+        "duration": 26,
+        "timestamp": "2025-11-05T09:30:05.514573"
+      },
+      {
+        "exercise": "hammer curl",
+        "reps": 2,
+        "duration": 3,
+        "timestamp": "2025-11-05T09:30:32.032860"
+      },
+      {
+        "exercise": "lateral raises",
+        "reps": 1,
+        "duration": 3,
+        "timestamp": "2025-11-05T09:30:39.613021"
+      },
+      {
+        "exercise": "tricep pushdown",
+        "reps": 1,
+        "duration": 6,
+        "timestamp": "2025-11-05T09:30:42.923422"
+      },
+      {
+        "exercise": "lateral raises",
+        "reps": 1,
+        "duration": 8,
+        "timestamp": "2025-11-05T09:30:49.508733"
+      },
+      {
+        "exercise": "hip thrust",
+        "reps": 1,
+        "duration": 3,
+        "timestamp": "2025-11-05T09:30:58.229414"
+      },
+      {
+        "exercise": "tricep pushdown",
+        "reps": 1,
+        "duration": 14,
+        "timestamp": "2025-11-05T09:31:01.531168"
+      },
+      {
+        "exercise": "lateral raises",
+        "reps": 1,
+        "duration": 22,
+        "timestamp": "2025-11-05T09:31:33.343471"
+      },
+      {
+        "exercise": "lateral raises",
+        "reps": 1,
+        "duration": 32,
+        "timestamp": "2025-11-05T09:32:12.513727"
+      },
+      {
+        "exercise": "deadlift",
+        "reps": 1,
+        "duration": 5,
+        "timestamp": "2025-11-05T09:33:17.213722"
+      },
+      {
+        "exercise": "hip thrust",
+        "reps": 1,
+        "duration": 4,
+        "timestamp": "2025-11-05T09:33:22.748295"
+      },
+      {
+        "exercise": "lateral raises",
+        "reps": 22,
+        "duration": 1511,
+        "timestamp": "2025-11-05T09:33:48.666120"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-05T10:01:49.820181",
+    "sets": [
+      {
+        "exercise": "push up",
+        "reps": 7,
+        "duration": 50,
+        "timestamp": "2025-11-05T10:00:59.249301"
+      }
+    ]
+  }
+]
